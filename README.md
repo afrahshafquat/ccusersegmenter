@@ -1,7 +1,7 @@
-# ccusersegmenter
+# Credit card user segmenter
 
 ## Goal
-The goal of the project is to create clusters of users based on their credit card activity to make suggestions on benefits that the credit card company may want to offer to its users.
+The goal of the project is to *make suggestions on benefits that the credit card company may want to offer to its users based on their credit card activity*
 
 ## Strategy
 I use PCA and K-Means clustering to find clusters of users with differential patterns of credit card usage.
