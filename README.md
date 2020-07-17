@@ -1,6 +1,12 @@
 # ccusersegmenter
 
-The Data
+## Goal
+The goal of the project is to create clusters of users based on their credit card activity to make suggestions on benefits that the credit card company may want to offer to its users.
+
+## Strategy
+I use PCA and K-Means clustering to find clusters of users with differential patterns of credit card usage.
+
+## Data
 The data consists of a csv file with 8950 rows (one for each cardholder) organized in columns with descriptive headers.
 
 Key to column labels: 
